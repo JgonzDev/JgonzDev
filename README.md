@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JgonzDev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front end & Back end
+- 👀 I’m interested in Web Development & Cyber Security
+- 🌱 I’m currently learning Front end & Back end. Cyber Security.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: via email
 
